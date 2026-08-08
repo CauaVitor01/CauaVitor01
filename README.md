@@ -22,7 +22,7 @@
 
 > *"Construindo uma base sólida para transformar a internet em um ambiente mais seguro, um log de cada vez."*
 
-Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia atualmente em transição/início de carreira na área de **Segurança Cibernética**. Tenho um grande interesse pelas operações defensivas (**Blue Team**) e passo a maior parte do meu tempo livre montando laboratórios práticos para entender como os ataques funcionam e, principalmente, como detectá-los.
+Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia atualmente em transição/início de carreira na área de **Segurança Cibernética**. Tenho um grande interesse pelas operações defensivas (**Blue Team**) e dedico meu tempo livre aos estudos para entender a fundo como as ameaças funcionam e, principalmente, como detectá-las.
 
 **O que estou estudando e praticando no momento:**
 * **Análise de Logs:** Entendendo a telemetria do sistema e investigando eventos suspeitos usando plataformas como Splunk e Wazuh.
@@ -54,7 +54,7 @@ Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia 
 
 ---
 
-### ⚡ TECNOLOGIAS EM LABORATÓRIO
+### ⚡ TECNOLOGIAS EM ESTUDO
 
 <div align="center">
   
@@ -80,7 +80,7 @@ Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia 
 
 ---
 
-### 📂 LABORATÓRIOS E PROJETOS DE ESTUDO
+### 📂 DOCUMENTAÇÃO E PROJETOS DE ESTUDO
 
 <table align="center">
   <tr>
@@ -103,14 +103,14 @@ Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia 
       <a href="https://github.com/CauaVitor01/active-directory">
         <img src="https://img.shields.io/badge/Active_Directory-161B22?style=for-the-badge&logo=github&logoColor=00FF00" alt="Active Directory" />
       </a>
-      <br><br><em>Laboratório prático focado em proteção e boas práticas (Hardening) de Active Directory.</em>
+      <br><br><em>Documentação de estudos em proteção e boas práticas (Hardening) de Active Directory.</em>
     </td>
     <td align="center" width="50%">
       <br>
       <a href="https://github.com/CauaVitor01/soc-lab-infrastructure">
         <img src="https://img.shields.io/badge/SOC_Lab_Infrastructure-161B22?style=for-the-badge&logo=github&logoColor=00FF00" alt="SOC Lab" />
       </a>
-      <br><br><em>Deploy inicial e documentação de uma infraestrutura caseira de SOC usando Splunk e Logstash.</em>
+      <br><br><em>Estudos focados na documentação de infraestrutura caseira de SOC usando Splunk e Logstash.</em>
     </td>
   </tr>
 </table>
