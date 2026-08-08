@@ -41,4 +41,107 @@ Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia 
   <tr>
     <td align="center" width="50%">
       <b>🛡️ Fundamentos Teóricos</b><br><br>
-      <img src="https://img.shields.io/badge/MITRE_ATT&CK-000000?style=for-the-badge&logo=shield&logoColor=white" /><br
+      <img src="https://img.shields.io/badge/MITRE_ATT&CK-000000?style=for-the-badge&logo=shield&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NIST_CSF-005E85?style=for-the-badge&logo=nist&logoColor=white" /><br>
+    </td>
+    <td align="center" width="50%">
+      <b>🎓 Formação Concluída</b><br><br>
+      <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br>
+      <i>Certificado que cobre os princípios fundamentais de cibersegurança, redes, Linux, SQL, Python e gestão de incidentes.</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ TECNOLOGIAS EM LABORATÓRIO
+
+<div align="center">
+  
+**[+] Sistemas Operacionais & Infraestrutura** <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+**[+] Plataformas de Treinamento Prático** <br>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+**[+] Ferramentas de Estudo (SIEM / Monitoramento)** <br>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-005E85?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
+
+**[+] Lógica e Bancos de Dados** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### 📂 LABORATÓRIOS E PROJETOS DE ESTUDO
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/CauaVitor01/siem-detections">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=siem-detections&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="SIEM Detections" />
+      </a>
+      <br><em>Meus estudos sobre criação de regras de detecção, alertas no Wazuh e linguagem Sigma.</em>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/CauaVitor01/portfolio-google-cybersecurity">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=portfolio-google-cybersecurity&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="Google Cyber Portfolio" />
+      </a>
+      <br><em>Documentação das atividades e simulações de incidentes feitas durante o curso do Google.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/CauaVitor01/active-directory">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=active-directory&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="Active Directory" />
+      </a>
+      <br><em>Laboratório prático focado em proteção e boas práticas (Hardening) de Active Directory.</em>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/CauaVitor01/soc-lab-infrastructure">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=soc-lab-infrastructure&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="SOC Lab" />
+      </a>
+      <br><em>Deploy inicial e documentação de uma infraestrutura caseira de SOC usando Splunk e Logstash.</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 ESTATÍSTICAS DE APRENDIZADO
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CauaVitor01&show_icons=true&theme=tokyonight&border_color=00FF00&title_color=00FF00&ring_color=00FF00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaVitor01&layout=compact&theme=tokyonight&border_color=00FF00&title_color=00FF00" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+<div align="center">
+
+### 📡 COMUNICAÇÃO 
+
+Estou sempre aberto a feedbacks, dicas de estudos ou conversas sobre a área!
+
+<a href="https://www.linkedin.com/in/cau%C3%A3-vitor-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:seu.email@exemplo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://i.imgur.com/2Yc9P0b.gif" width="300" alt="Loading bar">
+
+<i>[SISTEMA ENTRANDO EM MODO SLEEP... DEFENSORES NUNCA DORMEM.]</i><br>
+<code>EOF</code>
+
+</div>
