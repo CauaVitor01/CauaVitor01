@@ -132,7 +132,7 @@ Estou sempre aberto a feedbacks, dicas de estudos ou conversas sobre a área!
 
 <br><br>
 
-<img src="https://i.imgur.com/2Yc9P0b.gif" width="300" alt="Loading bar">
+<code>[████████████████████░░░░] 85% - Salvando logs...</code><br><br>
 
 <i>[SISTEMA ENTRANDO EM MODO SLEEP... DEFENSORES NUNCA DORMEM.]</i><br>
 <code>EOF</code>
