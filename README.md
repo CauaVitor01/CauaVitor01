@@ -18,7 +18,7 @@
 
 > "Transformando a terra sem lei da internet em um ambiente seguro, um log de cada vez."
 
-Sou um profissional de **Segurança Cibernética** com foco em **Blue Team**, especializado na detecção, contenção e mitigação de ameaças avançadas. Certificado pelo **Google Cybersecurity Professional**, atuo na linha de frente monitorando alertas de SIEM, analisando tráfego de rede e automatizando rotinas de defesa com Python. Minha missão é garantir a resiliência da infraestrutura contra ataques cibernéticos em constante evolução.
+Sou um estudante de **Segurança Cibernética** com foco em **Blue Team**, especializado na detecção, contenção e mitigação de ameaças avançadas. Certificado pelo **Google Cybersecurity Professional**, atuo na linha de frente monitorando alertas de SIEM, analisando tráfego de rede e automatizando rotinas de defesa com Python. Minha missão é garantir a resiliência da infraestrutura contra ataques cibernéticos em constante evolução.
 
 <div align="center">
 
