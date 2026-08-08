@@ -86,41 +86,34 @@ Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia 
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/CauaVitor01/siem-detections">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=siem-detections&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="SIEM Detections" />
+        <img src="https://img.shields.io/badge/SIEM_Detections-161B22?style=for-the-badge&logo=github&logoColor=00FF00" alt="SIEM Detections" />
       </a>
-      <br><em>Meus estudos sobre criação de regras de detecção, alertas no Wazuh e linguagem Sigma.</em>
+      <br><br><em>Meus estudos sobre criação de regras de detecção, alertas no Wazuh e linguagem Sigma.</em>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/CauaVitor01/portfolio-google-cybersecurity">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=portfolio-google-cybersecurity&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="Google Cyber Portfolio" />
+        <img src="https://img.shields.io/badge/Google_Cyber_Portfolio-161B22?style=for-the-badge&logo=github&logoColor=00FF00" alt="Google Cyber Portfolio" />
       </a>
-      <br><em>Documentação das atividades e simulações de incidentes feitas durante o curso do Google.</em>
+      <br><br><em>Documentação das atividades e simulações de incidentes feitas durante o curso do Google.</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
+      <br>
       <a href="https://github.com/CauaVitor01/active-directory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=active-directory&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="Active Directory" />
+        <img src="https://img.shields.io/badge/Active_Directory-161B22?style=for-the-badge&logo=github&logoColor=00FF00" alt="Active Directory" />
       </a>
-      <br><em>Laboratório prático focado em proteção e boas práticas (Hardening) de Active Directory.</em>
+      <br><br><em>Laboratório prático focado em proteção e boas práticas (Hardening) de Active Directory.</em>
     </td>
     <td align="center" width="50%">
+      <br>
       <a href="https://github.com/CauaVitor01/soc-lab-infrastructure">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CauaVitor01&repo=soc-lab-infrastructure&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=c9d1d9" alt="SOC Lab" />
+        <img src="https://img.shields.io/badge/SOC_Lab_Infrastructure-161B22?style=for-the-badge&logo=github&logoColor=00FF00" alt="SOC Lab" />
       </a>
-      <br><em>Deploy inicial e documentação de uma infraestrutura caseira de SOC usando Splunk e Logstash.</em>
+      <br><br><em>Deploy inicial e documentação de uma infraestrutura caseira de SOC usando Splunk e Logstash.</em>
     </td>
   </tr>
 </table>
-
----
-
-### 📊 ESTATÍSTICAS DE APRENDIZADO
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CauaVitor01&show_icons=true&theme=tokyonight&border_color=00FF00&title_color=00FF00&ring_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaVitor01&layout=compact&theme=tokyonight&border_color=00FF00&title_color=00FF00" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
@@ -133,7 +126,7 @@ Estou sempre aberto a feedbacks, dicas de estudos ou conversas sobre a área!
 <a href="https://www.linkedin.com/in/cau%C3%A3-vitor-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="[mailto:cauavitor01072009@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=cauavitor01072009@gmail.com&su)" target="_blank">
+<a href="mailto:seu.email@exemplo.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
