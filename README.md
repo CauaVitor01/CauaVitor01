@@ -20,7 +20,7 @@
 
 ### 💻 `terminal@cauavitor:~ $ whoami`
 
-> *"Construindo uma base sólida para transformar a internet em um ambiente mais seguro, um log de cada vez."*
+> *"Construindo uma base sólida para transformar empresas e a internet mais segura, um passo de cada vez"*
 
 Bem-vindo ao meu repositório. Sou **Cauã Vitor**, um entusiasta de tecnologia atualmente em transição/início de carreira na área de **Segurança Cibernética**. Tenho um grande interesse pelas operações defensivas (**Blue Team**) e dedico meu tempo livre aos estudos para entender a fundo como as ameaças funcionam e, principalmente, como detectá-las.
 
